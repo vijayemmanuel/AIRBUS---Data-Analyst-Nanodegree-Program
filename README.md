@@ -1,7 +1,7 @@
 # AIRBUS---Data-Analyst-Nanodegree-Program
 Udacity Data Analyst Nanodegree Program
 
-Evaluations links provided below:
+Evaluation links provided below:
 
 Assignment 1 : https://review.udacity.com/#!/reviews/725521
 
